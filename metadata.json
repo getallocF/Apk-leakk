@@ -1,0 +1,6 @@
+{
+  "name": "BugrokTool",
+  "description": "Utilitas pengunduh Resource Pack server Minecraft Bedrock, autentikasi Xbox Live Device Code, diagnostik jaringan RakNet/DNS/Port, dan manajemen profil server.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BugrokTool</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_packs">Resource Pack</string>
+    <string name="nav_diagnostics">Diagnostik</string>
+    <string name="nav_profiles">Profil &amp; Konfig</string>
+    <string name="xbox_status_connected">Xbox Live Terhubung</string>
+    <string name="xbox_status_disconnected">Xbox Live Belum Tertaut</string>
+    <string name="connect_and_scan">Hubungkan &amp; Pindai Pack</string>
+    <string name="export_config">Ekspor Konfigurasi</string>
+    <string name="import_config">Impor Konfigurasi</string>
+</resources>
